@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+#phpstorm
+.idea
+
+## Our config
+config.js
